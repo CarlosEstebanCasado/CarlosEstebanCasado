@@ -1,5 +1,13 @@
 ### Hi there 👋 I'm Carlos Esteban
 
+I'm Software Developer with a strong entrepreneurial spirit that loves learning fast, solve problems and engineer digital products. I'm currently focused on JavaScript, PHP and its framework Laravel besides React and NodeJs.
+
+What I Love: React, Node, Express, Python, Java, SQL, HTML & CSS, JavaScript, Cybersecurity.
+
+Check out my portfolio: http://carlos-esteban-portfolio.herokuapp.com/
+
+I'm open to new projects, do not hesitate in contact me for further colaboration. 
+
 <!--
 **CarlosEstebanCasado/CarlosEstebanCasado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +34,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=postgresql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+<!--![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)-->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
