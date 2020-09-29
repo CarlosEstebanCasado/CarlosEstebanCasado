@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ⚡ Technologies
-![PHP](https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-007ACC?style=flat-square&logo=laravel)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-grey?style=flat-square&logo=laravel)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-1572B6?style=flat-square&logo=sass)
