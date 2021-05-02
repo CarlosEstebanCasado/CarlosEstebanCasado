@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ## ⚡ Technologies
 ![PHP](https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-grey?style=flat-square&logo=laravel)
+![Symfony](https://img.shields.io/badge/-Symfony-grey?style=flat-square&logo=symfony)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
