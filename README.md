@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Carlos Esteban
 
-I'm Software Developer with a strong entrepreneurial spirit that loves learning fast, solve problems and engineer digital products. I'm currently focused on JavaScript, PHP and its framework Laravel besides React and NodeJs.
+I'm Software Developer with a strong entrepreneurial spirit that loves learning fast, solve problems and engineer digital products. I'm currently focused on JavaScript, PHP and its framework Laravel besides React, VueJs and NodeJs.
 
 What I Love: React, Node, Express, Python, Java, SQL, HTML & CSS, JavaScript, Cybersecurity.
 
