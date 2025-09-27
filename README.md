@@ -4,8 +4,6 @@ I'm Software Developer with a strong entrepreneurial spirit that loves learning 
 
 What I Love: React, Node, Express, Python, Java, SQL, HTML & CSS, JavaScript, Cybersecurity.
 
-Check out my portfolio: http://carlos-esteban-portfolio.herokuapp.com/
-
 I'm open to new projects, do not hesitate in contact me for further colaboration. 
 
 <!--
